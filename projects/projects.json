@@ -49,5 +49,25 @@
       "view": "https://km3yr9.csb.app/",
       "code": "https://codesandbox.io/s/gifted-wilson-km3yr9?file=/index.html"
     }
+  },
+  {
+    "name": "TextScript",
+    "desc": "An AI app to summarize paragraphs using the given link",
+    "image": "textscript",
+    "category": "mern",
+    "links": {
+      "view": "https://textscript.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "ToDo App",
+    "desc": "A ToDo App that use Firebase as a Database and shows your tasks in real time",
+    "image": "todo",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
   }
 ]
